@@ -113,6 +113,3 @@ Below are the visual previews of all three dashboards included in the project.
 <img src="./Details Tab.png" alt="Details Dashboard" width="850">
 
 ---
-
-> 📁 **Note:**  
-> Save your images inside a folder named **`screenshots/`** in your GitHub repository, or update the path accordingly.
