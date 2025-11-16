@@ -100,17 +100,17 @@ A detailed, drill-through based dashboard for record-level analysis.
 Below are the visual previews of all three dashboards included in the project.
 
 ### **📊 Dashboard 1 – Overview Analysis**
-<img src="./screenshots/overview_dashboard.png" alt="Overview Dashboard" width="850">
+<img src="./Overview Tab.png" alt="Overview Dashboard" width="850">
 
 ---
 
 ### **⏱ Dashboard 2 – Time Analysis**
-<img src="./screenshots/time_analysis_dashboard.png" alt="Time Analysis Dashboard" width="850">
+<img src="./Time Analysis Tab.png" alt="Time Analysis Dashboard" width="850">
 
 ---
 
 ### **📄 Dashboard 3 – Details / Grid View**
-<img src="./screenshots/details_dashboard.png" alt="Details Dashboard" width="850">
+<img src="./Details Tab.png" alt="Details Dashboard" width="850">
 
 ---
 
